@@ -1,5 +1,7 @@
 # Path of Exile
 
+[DAD](/LemansTwoFour.html)
+
 * [Item Progression](#item-progression-top)
   * [Gearing Improvements](#gearing-improvements-top)
 * [Skill Gem Management](#skill-gem-management-top)
