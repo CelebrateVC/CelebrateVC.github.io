@@ -1,6 +1,10 @@
 # Path of Exile
 
-[DAD](/LemansTwoFour.html)
+[Dad](/LemansTwoFour.html)
+
+[Mike](/LycosRanger.html)
+
+[Simon](/AcePlayerBing.html)
 
 * [Item Progression](#item-progression-top)
   * [Gearing Improvements](#gearing-improvements-top)
